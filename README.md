@@ -1,1 +1,1 @@
-This is a Git and Github usage demo repository.
+This is a Git and Github - https://www.github.com usage demo repository. 
